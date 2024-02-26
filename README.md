@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a master student of artificial intelligence in University of Bologna and I am currently working on my thesis on energy load forecasting using AI.
+
 
 
 ## 🌐 Socials:
