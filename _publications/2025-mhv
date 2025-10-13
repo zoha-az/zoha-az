@@ -1,0 +1,11 @@
+---
+title: "Towards an Energy-Efficient Video Processing Tool with Large Language Models"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-mhv
+excerpt: "Proposes a novel LLM-based video processing tool that enhances energy efficiency in media workflows."
+date: 2025-03-01
+venue: "Proceedings of the 4th Mile-High Video Conference"
+paperurl: "https://doi.org/10.1145/3715675.3715835"
+citation: "Z. Azimi, R. Farahani, C. Timmerer, and R. Prodan. (2025). *Towards an Energy-Efficient Video Processing Tool with LLMs.* Proceedings of the 4th Mile-High Video Conference."
+---
