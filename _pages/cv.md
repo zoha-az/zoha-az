@@ -11,9 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+### Ph.D. in Information Technology (In Progress)  
+**Universität Klagenfurt, Austria**  
+*Sep 2023 – Present*  
+
+- Research on **AI-assisted energy-efficient video streaming**  
+- Supervisors: [Professor Christian Timmerer](https://www.aau.at/team/timmerer-christian/), [Professor Radu Prodan](https://www.aau.at/team/prodan-radu-aurel/)  
+- Advisor: [Dr. Reza Farahani](https://www.aau.at/en/team/farahani-reza/)
+
+---
+
+### M.Sc. in Artificial Intelligence  
+**Alma Mater Studiorum – Università di Bologna, Italy**  
+*Sep 2021 – Jul 2023*  
+
+- Thesis: **Deep learning-based multi-step ahead energy demand forecasting in industrial applications**  
+- Supervisor: [Dr. Michele Lombardi](https://www.unibo.it/sitoweb/michele.lombardi2)
+
+---
+
+### M.Sc. in Electrical Engineering (Telecommunications)  
+**Iran University of Science and Technology, Tehran, Iran**  
+*Sep 2012 – Feb 2015*  
+
+- Thesis: Nondestructive testing for defect detection of microstrip boards using near magnetic field  
+- Supervisor: Dr. Majid Tayarani
+
 
 Work experience
 ======
