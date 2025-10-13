@@ -41,29 +41,45 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### University Assistant  
+**Universität Klagenfurt, Austria**  
+*Sep 2023 – Present*  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#### Research Focus  
+- Investigating **AI-assisted energy-efficient video streaming**  
+- Exploring **Large Language Models (LLMs)** for video processing with a focus on sustainability  
+
+#### Teaching  
+- **Introduction to Structured and Object-Oriented Programming**  
+  - Instructed foundational programming concepts, emphasizing problem-solving and clean coding practices in Java.  
+- **Distributed Systems**  
+  - Covered topics such as Java RMI, socket programming, web services, distributed algorithms, peer-to-peer systems, virtualization (Docker/VMs), and orchestration (Kubernetes).  
+  - Integrated theoretical and practical aspects of designing and implementing distributed architectures.  
+
+---
+
+### Research and Development Specialist  
+**Maps Group | Sharing Knowledge, Italy**  
+*Feb 2023 – Jul 2023*  
+
+- Designed and developed **machine learning models** for energy consumption forecasting across various industries using historical data.  
+- Explored and evaluated different **neural network architectures** including CNNs, LSTMs, and other deep learning models.  
+- Conducted comparative analyses to identify and propose the most accurate and efficient models for specific industrial use cases.  
+
+---
+
+### Academic Research Projects  
+**Alma Mater Studiorum – Università di Bologna, Italy**  
+*Sep 2021 – Jul 2023*  
+
+- **Skin Cancer Detection:** Developed a **deep learning** pipeline for skin cancer classification using the ISIC dataset.  
+- **Breast Cancer Detection:** Applied **CNNs** to classify breast cancer subtypes from histopathological images (BreakHis dataset).  
+- **Chest X-ray Image Segmentation:** Implemented a **UNet-based** model for segmenting anatomical structures in chest X-rays.  
+- **Medical Abbreviation Disambiguation:** Built an **NLP pipeline** leveraging **BERT-based** architectures to disambiguate abbreviations in clinical texts.
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -71,18 +87,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
