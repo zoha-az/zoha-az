@@ -18,6 +18,13 @@ Z. Azimi, R. Farahani, R. Prodan, C. Timmerer
 
 ---
 
+**AI-Assisted Energy-Efficient Multimedia Systems**
+Z. Azimi Ourimi
+*Proceedings of the ACM Multimedia Systems Conference 2026, pp. 363–367*
+{: .pub-entry}
+
+---
+
 **Towards an Energy-Efficient Video Processing Tool with LLMs**
 Z. Azimi, R. Farahani, C. Timmerer, R. Prodan
 *4th Mile-High Video Conference, 2025* · [DOI](https://doi.org/10.1145/3638036.3640268)
@@ -47,20 +54,6 @@ Z. Azimi, A. Premkumar, R. Farahani, V.V. Menon, C. Timmerer, R. Prodan
 ---
 
 ## Preprints & Under Review
-
-**ELLMPEG: An FFmpeg-like Video Processing Tool with Large Language Models**
-Z. Azimi, R. Farahani, R. Prodan, C. Timmerer
-*Submitted to IEEE Access*
-{: .pub-entry}
-
----
-
-**LMOrch: A QoS-Aware LLM Query Orchestration Service on the Edge-Cloud Continuum**
-R. Farahani, Z. Azimi, M. Colosi, C. Timmerer, R. Prodan
-*Submitted to IEEE INFOCOM 2025*
-{: .pub-entry}
-
----
 
 **DQ-Ladder: A Deep Reinforcement Learning-based Bitrate Ladder for Adaptive VVC Video Streaming**
 R. Farahani, Z. Azimi, V.V. Menon, H. Hellwagner, R. Prodan, C. Timmerer

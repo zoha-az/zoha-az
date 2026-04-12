@@ -52,6 +52,13 @@ Artificial Intelligence · LLMs · Edge AI · Video Streaming · Energy Efficien
 
 ---
 
+## Academic Service
+
+**Journal Reviewer**
+- IEEE Transactions on Parallel and Distributed Systems (TPDS) · 2024, 2025, 2026
+
+---
+
 ## Skills
 - **Languages:** Python, Java, MATLAB
 - **Frameworks:** PyTorch, TensorFlow, Keras, scikit-learn
