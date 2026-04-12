@@ -11,7 +11,6 @@ I have been actively involved in teaching activities in programming and distribu
 
 **Summer Semester 2026: Distributed Systems**
 
-* Teaching Assistant
 * Bachelor course, Universität Klagenfurt, Austria
 * Topics include:
   + Java RMI and socket programming
@@ -26,7 +25,6 @@ I have been actively involved in teaching activities in programming and distribu
 
 **Summer Semester 2025: Distributed Systems**
 
-* Teaching Assistant
 * Bachelor course, Universität Klagenfurt, Austria
 * Topics include:
   + Java RMI and socket programming
@@ -41,7 +39,6 @@ I have been actively involved in teaching activities in programming and distribu
 
 **Winter Semester 2024: Introduction to Structured and Object-Oriented Programming**
 
-* Teaching Assistant
 * Bachelor course, Universität Klagenfurt, Austria
 * Topics include:
   + Foundational programming concepts in Java
