@@ -374,6 +374,24 @@
 
 
 /*
+   Publication entries
+   ========================================================================== */
+
+.pub-entry {
+  margin-bottom: 0.5em;
+
+  strong {
+    font-size: 1em;
+  }
+
+  em {
+    color: var(--global-text-color-light);
+    font-size: 0.95em;
+  }
+}
+
+
+/*
    Related
    ========================================================================== */
 
