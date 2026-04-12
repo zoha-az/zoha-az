@@ -23,7 +23,7 @@ repository               : "zoha-az.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zoha Azimi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Researcher<br>Institute of Information Technology (ITEC)<br>Universität Klagenfurt, Austria"
